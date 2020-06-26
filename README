@@ -1,7 +1,7 @@
 # s.Dog Responsive YouTube Embed shortcode
 
 ## What the plugin does
-Creates a Wordpess shortcode [sdog-youtube-embed src=""], where the src attribute is the URL of a YouTube video.  
+Creates a Wordpress shortcode [sdog-youtube-embed src=""], where the src attribute is the URL of a YouTube video.  
 
 ## Why the plugin is useful
 Copy an embed snippet from under a YouTube video (click Share > Embed), paste that into a Wordpress page / post and it won't be responsive out of the box.

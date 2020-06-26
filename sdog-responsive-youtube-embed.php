@@ -1,7 +1,7 @@
 <?php 
 /**
 * Plugin Name: s.Dog Responsive YouTube embed container
-* Plugin URI: https://www.satyadarshin.com/plugins/sdog_responsive_youtube_embed/
+* Plugin URI: https://www.satyadarshin.com/portfolio/responsive-youtube-embed/
 * Description: A shortcode for inserting responsive, embedded YouTube videos. Insert the shortcode [sdog-youtube-embed src=""] with the the URL of the video as the attribute.
 * Version: 1.0
 * Author: Satyadarshin Perry
