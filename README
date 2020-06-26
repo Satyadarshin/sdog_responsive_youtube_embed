@@ -4,13 +4,13 @@
 Creates a Wordpess shortcode [sdog-youtube-embed src=""], where the src attribute is the URL of a YouTube video.  
 
 ## Why the project is useful
-Copy an embed snippet from under the a YouTube video (click Share > Embed), paste into a Wordpress page or post, and it's not responsive out of the box.
-to deal with that, add the shortcode above paste the URL into the src attribute.
-**Note:** amke sure you copy the url with an /embed/ path, e.g. https://www.youtube.com/embed/DN6WTr9S6Rw otherwise your browser may throw an error.
-The plugin stylsheet will make the resulting HTML responsive. [Credit where credit's due] (https://themeskills.com/make-embedded-youtube-videos-responsive-wordpress/) on the CSS came. 
+Copy an embed snippet from under a YouTube video (click Share > Embed), paste that into a Wordpress page / post and it won't be responsive out of the box.
+To deal with that, add the shortcode above (into a shortcode block, if you have the new block editor enabled), and paste the URL of the video into its src attribute.
+**Note:** make sure you copy the url with an /embed/ path, e.g. https://www.youtube.com/embed/DN6WTr9S6Rw otherwise your browser may throw an error.
+The plugin stylsheet will make the resulting HTML responsive. [Credit where credit's due] (https://themeskills.com/make-embedded-youtube-videos-responsive-wordpress/) on the CSS. 
 
 ## How users can get started with the project
-Clone the repo and make whatever changes suit your task. To upload, you'll probably want to copy  via the Wordpress plugins 
+Clone the repo and make whatever changes suit your task. Compress the directory into a ZIP archive and upload via your Wordpress installation's plugins *Add New* page. Activate, *et voilà*.
 
 ## Where users can get help with your project
 Contact Satyadarshin Perry, s.dog@satyadarshin.com, www.satyadarshin.com
