@@ -10,12 +10,13 @@ To deal with that, add the shortcode above (into a shortcode block, if you have 
 The plugin stylsheet will make the resulting HTML responsive. [Credit where credit's due] (https://themeskills.com/make-embedded-youtube-videos-responsive-wordpress/) on the CSS. 
 
 ## How users can get started with the project
-Clone the repo and make whatever changes suit your task. Compress the directory into a ZIP archive and upload via your Wordpress installation's plugins *Add New* page. Activate, *et voilà*.
+[Clone the repo] (https://github.com/Satyadarshin/sdog_responsive_youtube_embed).and make whatever changes suit your task. Compress the directory into a ZIP archive and upload via your Wordpress installation's plugins *Add New* page. Activate, *et voilà*.
 
 ## Where users can get help with your project
-Contact Satyadarshin Perry, s.dog@satyadarshin.com, www.satyadarshin.com
+Contact Satyadarshin Perry, [email] (s.dog@satyadarshin.com), [portfolio website] (https://www.satyadarshin.com/), [Github] (https://github.com/Satyadarshin).
 Could I improve this? Send me a message. 
 
 ## Who maintains and contributes to the project
 Satyadarshin Perry is a Web Content designer and admin, a Web developer, graphic designer, and artist. 
 He has a particular passion for front-end Web devlopment. As of July 2020, he is based in Bristol, UK.
+
