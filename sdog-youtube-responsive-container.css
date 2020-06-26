@@ -1,0 +1,26 @@
+/**
+* Plugin Name: s.Dog Responsive YouTube embed container
+* Plugin URI: https://www.satyadarshin.com/plugins/sdog_responsive_youtube_embed/
+* Version: 1.0
+* Description: Stylesheet attached to the shortcode output. 
+* Makes a YouTube video responsive.
+* Source: https://themeskills.com/make-embedded-youtube-videos-responsive-wordpress/
+*/
+
+.sdog-youtube-responsive-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+
+.sdog-youtube-responsive-container iframe,
+.sdog-youtube-responsive-container object,
+.sdog-youtube-responsive-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
